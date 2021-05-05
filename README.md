@@ -1,16 +1,16 @@
-## Hi! My name is Juliya. I'm a beginner FRONT-END DEVELOPER👋
-#### I have successfully finished courses by HTML Academy (HTML, CSS) and The Rolling Scopes School (JS, React, Redux).🎓
+### Hi! My name is Juliya. I'm a beginner FRONT-END DEVELOPER👋
+### I have successfully finished courses by HTML Academy (HTML, CSS) and The Rolling Scopes School (JS, React, Redux).🎓
 
 
 ## *Key skills:*
-- HTML5, CSS3, JavaScript
-- React + Redux-thunk, Material UI, Firebase Auth/ Database
-- working experience with GitHub, Webpack
-- basic knowledge methods of object-oriented programming
-- experience in creating SPA, which interacts with API
-- ability to work with Adobe Photoshop and Figma
-- experience in development of adaptive website coding
-- English (A2)
+- **HTML5, CSS3, JavaScript**
+- **React + Redux-thunk, Material UI, Firebase Auth/ Database**
+- working experience with **GitHub, Webpack**
+- basic knowledge methods of **object-oriented programming**
+- experience in creating **SPA**, which interacts with **REST API**
+- ability to work with **Adobe Photoshop, Photopea, Figma**
+- experience in development of **adaptive website coding**
+- **English (A2)**
 
 ## *My projects:*
 - [PostMania](https://post-mania.web.app/) *(Email:test@mail.ru, Пароль:000000)*
@@ -20,7 +20,7 @@
 - [Simple piskel clone](https://simple-piskel-clone-app.web.app/)
 
 ## *Contacts:*
-📞 +375 (29) 384 17 08
+📞 **+375 (29) 384 17 08**
 ✉️ potapchuk.julya@list.ru
 ☑️  https://www.linkedin.cn/in/jul-patapchuk/
 
