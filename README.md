@@ -1,5 +1,5 @@
-### Hi! My name is Juliya.👋 I'm a beginner **FRONT-END DEVELOPER.**
-### I have successfully finished courses by HTML Academy (HTML, CSS) and The Rolling Scopes School (JS, React, Redux). 🎓 Now, I am continuing to improve my knowledge and skills in front-end sphere.
+### Hi! My name is Juliya.👋 I'm a beginner FRONT-END DEVELOPER.
+### I have successfully finished courses by HTML Academy (HTML, CSS) and The Rolling Scopes School (JS, React). 🎓 Now, I keep improving my knowledge and skills in front-end sphere.
 
 
 ## *Key skills:*
@@ -13,7 +13,7 @@
 - **English (A2)**
 
 ## *My projects:*
-- [PostMania](https://post-mania.web.app/) *(Email:test@mail.ru, Пароль:000000)*
+- [PostMania](https://post-mania.web.app/) *(Email:test@mail.ru, Password:000000)*
 - [Fancy weather](https://fancy-weather-app-web.netlify.app/)
 - [Layout](https://jul-333.github.io/Layout/)
 - [Birds songs app](https://song-bird-app.netlify.app)
