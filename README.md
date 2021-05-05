@@ -1,5 +1,5 @@
-### Hi! My name is Juliya.👋 I'm a beginner FRONT-END DEVELOPER.
-### I have successfully finished courses by HTML Academy (HTML, CSS) and The Rolling Scopes School (JS, React). 🎓 Now, I keep improving my knowledge and skills in front-end sphere.
+#### Hi! My name is Juliya.👋 I'm a beginner FRONT-END DEVELOPER.
+#### I have successfully finished courses by HTML Academy (HTML, CSS) and The Rolling Scopes School (JS, React). 🎓 Now, I keep improving my knowledge and skills in front-end sphere.
 
 
 ## *Key skills:*
