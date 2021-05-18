@@ -5,6 +5,7 @@
 ## *Key skills:*
 - **HTML5, CSS3, JavaScript**
 - **React + Redux-thunk, Material UI, Firebase Auth/ Database**
+- little experience in **TypeScript + React**
 - working experience with **GitHub, Webpack**
 - basic knowledge methods of **object-oriented programming**
 - experience in creating **SPA**, which interacts with **REST API**
