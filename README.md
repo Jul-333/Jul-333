@@ -15,7 +15,6 @@
 
 ## *My projects:*
 - [PostMania](https://post-mania.web.app/) *(Email:test@mail.ru, Password:000000)*
-- [Fancy weather](https://fancy-weather-app-web.netlify.app/)
 - [To Do List](https://tooo-dooo-list.netlify.app/)
 - [Layout](https://jul-333.github.io/Layout/)
 - [Birds songs app](https://song-bird-app.netlify.app)
