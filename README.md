@@ -15,7 +15,8 @@
 
 ## *My projects:*
 - [PostMania](https://post-mania.web.app/) *(Email:test@mail.ru, Password:000000)*
-- [To Do List](https://tooo-dooo-list.netlify.app/)
+- [Image Finder](image-finder-web.netlify.app/)
+- [To Do List (React+TS)](https://tooo-dooo-list.netlify.app/)
 - [Layout](https://jul-333.github.io/Layout/)
 - [Birds songs app](https://song-bird-app.netlify.app)
 - [Simple piskel clone](https://simple-piskel-clone-app.web.app/)
