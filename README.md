@@ -1,17 +1,12 @@
-#### Hi! My name is Juliya.👋 I'm a beginner FRONT-END DEVELOPER.
-#### I have successfully finished courses by HTML Academy (HTML, CSS) and The Rolling Scopes School (JS, React). 🎓 Now, I keep improving my knowledge and skills in front-end sphere.
+#### Hi! My name is Juliya.👋 I'm a FRONT-END DEVELOPER.
 
 
 ## *Key skills:*
-- **HTML5, CSS3, JavaScript**
-- **React + Redux-thunk, Material UI, Firebase Auth/ Database**
-- little experience in **TypeScript + React**
-- working experience with **GitHub, Webpack**
-- basic knowledge methods of **object-oriented programming**
-- experience in creating **SPA**, which interacts with **REST API**
-- ability to work with **Adobe Photoshop, Photopea, Figma**
-- experience in development of **adaptive website coding**
-- **English (A2)**
+- **JavaScript / HTML5 / CSS3 / SCSS** 
+- **React (hooks, classes) / React-Router-Dom / Redux Thunk/ Redux Saga / REST API / TypeScript / Axios / Material UI / Styled Components / StoryBook / Pixel Perfect**
+- **Jest / Enzyme**
+- **GitHub / Jira / Webpack / NodeJS / Firebase auth. and database / Adobe Photoshop / Figma / Npm, Yarn package managers / Eslint**
+- **English (A2+)**
 
 ## *My projects:*
 - [PostMania](https://post-mania.web.app/) *(Email:test@mail.ru, Password:000000)*
